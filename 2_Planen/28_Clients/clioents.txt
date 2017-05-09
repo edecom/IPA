@@ -1,0 +1,6 @@
+Die Windows 10 Clients melden sich an der Domäne an und erhalten automatisch die Laufwerkzuordnung wo der
+jeweilige Benutzer Zugriff hat. Sobald Word, Excel oder Powerpoint gestartet wird, werden Dokumente
+Standardmässig auf das persönliche Laufwerk gespeichert und Gruppenvorlagen werden aus ein zentrales
+Vorlagenverzeichnis geholt. Benutzer haben in Outlook keine Möglichkeit den CacheModus
+zu aktivieren.
+Konfigurationen von Windows Updates und Antivirus können nicht durch den Benutzer angepasst werden.
