@@ -1,4 +1,0 @@
-https://www.administrator.de/frage/unterschied-zwischen-lacp-active-passive-static-214889.html
-http://bent-blog.de/port-trunking-via-lacp-im-windows-server-umfeld/
-http://bent-blog.de/download/
-https://araihan.wordpress.com/2015/01/05/understanding-vlan-trunk-nic-teaming-virtual-switch-configuration-in-hyper-v-server-2012-r2/
