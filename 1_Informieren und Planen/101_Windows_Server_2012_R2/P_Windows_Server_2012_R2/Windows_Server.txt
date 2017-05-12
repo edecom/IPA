@@ -1,0 +1,45 @@
+Meine wahl V2
+Begrundung bestpractise mircosoft pert. EX ed SQL und auslastung
+https://docs.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server
+https://technet.microsoft.com/de-de/library/ms.exch.setupreadiness.warninginstallexchangerolesondomaincontroller(v=exchg.160).aspx
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+V1
+Host 
+Acronis
+21
+Server01
+AD, DNS DHCP NTP GPO SQL WSUS
+22
+Server02
+exchange G-DATA
+23
+
+###################################################
+V2
+
+Host 
+Acronis
+21
+
+Server01
+AD, DNS DHCP NTP GPO G-DATA
+22
+
+Server02 
+SQL WSUS exchange
+23
+
+
+###################################################
+V3
+Host 
+Acronis
+21
+Server01
+AD, DNS DHCP NTP GPO exchange
+22
+Server02
+G-DATA SQL WSUS
+23
+####################################################

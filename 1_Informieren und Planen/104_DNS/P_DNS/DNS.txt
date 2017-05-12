@@ -1,10 +1,13 @@
 Forward und Reverse
 bereich sps.local 192.168.100.0/24
 
+Host		FIX
 Server01	FIX
 Server02	FIX
 FW		FIX
 Synology	FIX
+
+IPv6 deaktiviert
 
 AD integriete zone
 Dynamische updates active directory

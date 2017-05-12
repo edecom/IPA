@@ -1,4 +1,19 @@
+V1
+FIXE IPs im DHCP Bereich
+
+
 DHCP Bereich: 192.168.100.51	200
 
+
+Server Reservierung
 Clients reservierung
-W-LAN Dynamisch
+
+
+#############################################################
+Mein Wahl V2 geräte werden fix eingerichtet daher V1 unlogisch oder ein Mehraufwand im Auftrag nicht gefordert
+V2 
+Fixe IP nicht im DHCP Bereich
+Clients reservierung
+
+DHCP Bereich: 192.168.100.51	200
+DB verschieben
