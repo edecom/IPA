@@ -1,0 +1,6 @@
+Datenablage:	DATA / LOG / Temp / Backup
+
+
+
+
+1 instanz für WSUS

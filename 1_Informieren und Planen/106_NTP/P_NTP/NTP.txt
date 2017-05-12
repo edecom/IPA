@@ -1,0 +1,4 @@
+ch pool ntp org
+0-3 servers
+GPO für clients
+Zeitsyncronisation mit

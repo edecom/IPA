@@ -1,0 +1,15 @@
+Benutzer namens konvention:	Vorname.Nachname
+
+Datenbank auf D:
+
+Eigene OU SPS
+	Users
+	Computers
+	Groups
+
+user:	max.mustermann
+	julia.musterfrau
+	peter.mustermann
+
+groups:	Geschäftsleitung
+	Technik

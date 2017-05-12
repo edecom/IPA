@@ -1,0 +1,4 @@
+DHCP Bereich: 192.168.100.51	200
+
+Clients reservierung
+W-LAN Dynamisch

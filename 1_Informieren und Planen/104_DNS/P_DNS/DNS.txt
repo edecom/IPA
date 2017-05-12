@@ -1,0 +1,10 @@
+Forward und Reverse
+bereich sps.local 192.168.100.0/24
+
+Server01	FIX
+Server02	FIX
+FW		FIX
+Synology	FIX
+
+AD integriete zone
+Dynamische updates active directory
