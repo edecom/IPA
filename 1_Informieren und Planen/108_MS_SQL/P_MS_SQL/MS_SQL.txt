@@ -1,6 +1,17 @@
 Datenablage:	DATA / LOG / Temp / Backup
 
-
-
-
 1 instanz für WSUS
+
+authentificazion mixed
+
+analytics reporting etc deaktivieren
+
+users lokal
+
+
+PW SA	*9dsP21b
+
+###################################################
+
+Standard installation
+

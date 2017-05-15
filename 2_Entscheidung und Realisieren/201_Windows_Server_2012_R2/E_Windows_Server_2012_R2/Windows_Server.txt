@@ -1,0 +1,14 @@
+V2
+
+Host 
+Acronis
+21
+
+Server01
+AD, DNS DHCP NTP GPO G-DATA
+22
+
+Server02 
+SQL WSUS exchange
+23
+

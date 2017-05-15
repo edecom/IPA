@@ -1,38 +1,55 @@
-Meine Wahlt V1 Begrundung verwaltbarkeit und eindeutigkeit
 V1
-Benutzer namens konvention:	Vorname.Nachname
-Gruppen konvention:		Universal Gruppe (SPS Users / SPS Admins)
-				GG	Geschäftsleitung
-				GG	G...._R
-				GG	G...._RW
-
 Datenbank auf D:
+Benutzer namens konvention:	Vorname.Nachname
+Gruppen konvention:		Universal Gruppe (SPS)
+				GG	Geschäftsleitung
+Eigene OU SPS
+	Users
+		Geschäft...
+		Verkauf
+	Computers
+	Groups
+		universal
+
+user:	max.mustermann		Chur7000
+	julia.musterfrau
+	peter.mustermann
+
+groups:	Geschäftsleitung
+	Verkauf
+
+
+Servergespeicherte Profile und Home 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+V2
+Alles Unter Default
+Benutzer namens konvention:	2Vor.2Nach
+Gruppen konvention:		Universal Gruppe (SPS)
+				GG	Geschäftsleitung
+				LG	G...._R
+				LG	G...._RW
 
 Eigene OU SPS
 	Users
 	Computers
 	Groups
 
-user:	max.mustermann
-	julia.musterfrau
-	peter.mustermann
+user:	ma.mu		Chur7000
+	ju.mu
+	pe.mu
 
 groups:	Geschäftsleitung
-	Technik
+	Verkauf
+
+
 
 
 Servergespeicherte Profile und Home auf Profile
 H = SERVER/PROFILE...
 Ordnerumleitung definieren
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-V2
-Alles Unter Default
-
-2BuVo.2BuNa
 
 
 
 
-Servergespeicherte Profile und Home 
 

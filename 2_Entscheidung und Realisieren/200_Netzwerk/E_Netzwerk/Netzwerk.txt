@@ -1,0 +1,18 @@
+V1
+Netzwerk
+Ein gemeinsames Netzwerk da wenige clients und und 3 SRV und 1 Synology und 1 FW
+einfacher zu verwalten
+weniger aufwand bei der einrichtung
+sicherheitsrisiko	>	Lösung zusätzliches gerät in einem anderen Netzwerk LAN2
+Kein Webserver für eine Webseite
+
+Netzwerkbereich und Aufteilung
+Private C Netz
+192.168.100.0/24 Mogliche höst 254 sollte reichen
+
+1 - 20 Netzwerk
+21 - 30 Servers + Synology
+31 - 50 Drucker
+51 - 100 Clients PC
+51 - 200 DHCP
+201 - 254 Reserve

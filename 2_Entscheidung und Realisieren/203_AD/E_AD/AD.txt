@@ -1,0 +1,22 @@
+V1
+Datenbank auf D:
+Benutzer namens konvention:	Vorname.Nachname
+Gruppen konvention:		Universal Gruppe (SPS)
+				GG	Geschäftsleitung
+Eigene OU SPS
+	Users
+		Geschäft...
+		Verkauf
+	Computers
+	Groups
+		universal
+
+user:	max.mustermann		Chur7000
+	julia.musterfrau
+	peter.mustermann
+
+groups:	Geschäftsleitung
+	Verkauf
+
+
+Servergespeicherte Profile und Home

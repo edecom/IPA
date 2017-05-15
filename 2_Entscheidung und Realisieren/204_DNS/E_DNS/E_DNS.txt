@@ -11,8 +11,3 @@ IPv6 deaktiviert
 
 AD integriete zone
 Dynamische updates active directory
-
-
-######################################################
-
-keine weiteren einstellugen

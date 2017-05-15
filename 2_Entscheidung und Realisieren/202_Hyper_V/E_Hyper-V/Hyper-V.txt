@@ -1,0 +1,8 @@
+Daten und konf auf Daten
+
+VMs
+2 core pro VM
+Dynamisch Ram 512mb - 4096MB Server01
+Dynamisch Ram 512mb - 6144MB Server02 Start 1024
+2 VHDS System und Daten Grösse 120 Dynamisch
+1 LAN kabel pro VM keine gemeinsame nutzung

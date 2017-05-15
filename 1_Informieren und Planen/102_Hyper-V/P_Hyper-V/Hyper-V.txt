@@ -7,3 +7,10 @@ Dynamisch Ram 512mb - 6144MB Server02 Start 1024
 2 VHDS System und Daten Grösse 120 Dynamisch
 1 LAN kabel pro VM keine gemeinsame nutzung
 
+########################################################
+
+Standardspeicherort
+
+1 VHDX pro server
+Fix RAM 4GB unzureichend
+1 Lan für alle 3 server

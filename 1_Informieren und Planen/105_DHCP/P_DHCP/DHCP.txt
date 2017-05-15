@@ -7,7 +7,7 @@ DHCP Bereich: 192.168.100.51	200
 
 Server Reservierung
 Clients reservierung
-
+DB verschieben
 
 #############################################################
 Mein Wahl V2 geräte werden fix eingerichtet daher V1 unlogisch oder ein Mehraufwand im Auftrag nicht gefordert
@@ -16,4 +16,3 @@ Fixe IP nicht im DHCP Bereich
 Clients reservierung
 
 DHCP Bereich: 192.168.100.51	200
-DB verschieben
