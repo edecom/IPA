@@ -1,0 +1,12 @@
+V1
+
+Host
+client
+
+Server 01
+Management Server
+Administrator
+client
+
+Server 02 
+client
