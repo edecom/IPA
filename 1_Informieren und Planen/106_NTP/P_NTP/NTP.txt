@@ -1,2 +1,0 @@
-NTP jeder Host holt selber die Zeit
-oder Domhier
